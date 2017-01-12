@@ -1,0 +1,17 @@
+{
+  "name": "linebuff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stream",
+    "line",
+    "buffer",
+    "split"
+  ],
+  "author": "Alex Borisov <alex@alexborisov.com>",
+  "license": "LGPL-3.0+"
+}
